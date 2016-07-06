@@ -9,4 +9,4 @@ p{text-align: center;}
 <head>Hi! 
 A little about myself...</head>
 <p>
-      <style= "text-align":center;" "background-color:pink;" "padding:10%;">Fashion Aficionado. <style= "background-color:yellow;" "padding:10%;"> Tech Enthusiast.<style= "background-color:green;" "padding:10%;"> Adventure Seeker.
+      <div style= "text-align":center;"> <p style "background-color:pink;" "padding:10%;"> Fashion Aficionado.</p <p style= "background-color:yellow;" "padding:10%;"> Tech Enthusiast.</p> <p style= "background-color:green;" "padding:10%;"> Adventure Seeker.</p></div>
