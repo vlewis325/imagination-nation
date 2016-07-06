@@ -1,5 +1,5 @@
 <style>
-background-color: blue;
+body{background-color: blue;}
 p{text-align: center;}
 </style>
 <h1> imagination-nation</h1>
