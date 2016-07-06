@@ -1,6 +1,8 @@
-# imagination-nation
-A repository filled with miscellaneous thoughts
-
-Hi! 
-A little about myself...
-      Fashion Aficionado. Tech Enthusiast. Adventure Seeker.
+<style= "background-color: blue;" "><title> imagination-nation</title>
+<h3>A repository filled with miscellaneous thoughts</h3>
+<p>
+<p>
+<head>Hi! 
+A little about myself...</head>
+<p>
+      <style= "text-align":center;" "background-color:pink;" "padding:10%;">Fashion Aficionado. <style= "background-color:yellow;" "padding:10%;"> Tech Enthusiast.<style= "background-color:green;" "padding:10%;"> Adventure Seeker.
