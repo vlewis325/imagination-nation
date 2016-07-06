@@ -1,4 +1,8 @@
-<style= "background-color: blue;" "><title> imagination-nation</title>
+<style>
+background-color: blue;
+p{text-align: center;}
+</style>
+<h1> imagination-nation</h1>
 <h3>A repository filled with miscellaneous thoughts</h3>
 <p>
 <p>
