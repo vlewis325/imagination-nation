@@ -1,4 +1,6 @@
+  
 <html>
+  <meta charset="utf-8" />
 
 <h1> imagination-nation</h1>
 <h3>A repository filled with miscellaneous thoughts</h3>
